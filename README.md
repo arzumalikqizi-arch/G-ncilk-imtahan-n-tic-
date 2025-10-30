@@ -1,2 +1,18 @@
-# G-ncilk-imtahan-n-tic-
-İmtahan cavabları
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>İmtahan Cavabları</title>
+  </head>
+  <body>
+    <h1>İmtahan Cavabları</h1>
+    <ul>
+      <li>Sual 1 - Cavab: A</li>
+      <li>Sual 2 - Cavab: C</li>
+      <li>Sual 3 - Cavab: B</li>
+      <li>...</li>
+    </ul>
+  </body>
+</html>
+```
